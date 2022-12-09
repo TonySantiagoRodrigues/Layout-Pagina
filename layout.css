@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    /* adicionando imagem de fundo */
+    background: url('https://wallpaper.dog/large/5449724.png');
+    background-size: cover;
+}
+
+h1 {color: green;font-size: 30px;}
+        
+
+.conteudo{display: table;}
+
+.imagem {display: table-cell;
+    float: left;}
+
+
+.fire{
+    font-size: 30px;
+    color: gold;
+    display: table-cell;
+float: left;
+width: 400px;}
+
+.dragon{font-size: 25px;
+
+color: orange;}
+
+.box{width: 610px;
+height: 230px;
+background-color:black ;}
+
+.label{color: rgb(5, 72, 99);
+font-size: 30px;}
+
+.fox{color: red;
+background-color: whitesmoke;
+font-size: 20px;}
